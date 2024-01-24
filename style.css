@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#one {
+    top: 30px;
+  position: relative;
+}
+#two {
+    top: 60px;
+   position: relative;
+}
+#three {
+    top: 90px;
+    position: relative;
+}
+#suk {
+    position: relative;
+    top: 60px;
+}
+#footer {
+    position: relative;
+    top: 140px;
+}
